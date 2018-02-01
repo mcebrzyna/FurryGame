@@ -24,7 +24,6 @@ section#score {
   height: 64px;
 }
 
-
 section#score div {
   width: 10em;
   height: 3em;
@@ -37,16 +36,13 @@ section#score div {
   margin: 1em auto;
 }
 
-
-
-
 .furry {
-  background-image: url('../images/wiesio.png');
+  background-image: url('../images/furry.png');
   background-repeat: no-repeat;
   background-size: cover;
 }
 .coin {
-  background-image: url('../images/dzik.png');
+  background-image: url('../images/coin.png');
   background-repeat: no-repeat;
   background-size: cover;
 }
